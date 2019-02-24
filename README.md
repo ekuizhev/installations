@@ -1,1 +1,1 @@
-# This is folder which contains various tutorials
+# This is folder which contains various instalation tutorials
